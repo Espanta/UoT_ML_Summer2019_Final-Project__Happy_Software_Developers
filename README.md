@@ -1,6 +1,8 @@
 # ML_HappyDevelopers
 Retaining software engineers in today's ultra-competitive job market is vital to the success of today's technology companies. Using the Stack Overflow 2018 Developer Survey, what are the key predictors of job satisfaction? 
 
+<b>PowerPoint</b>: <a href="https://github.com/benpierce/ML_HappyDevelopers/blob/master/Predicting%20Developer%20Job%20Satisfaction.pptx">Download</a>
+
 # Data Source
 The data source for this exploration is the Stack Overflow 2018 survey results, hosted on <a href="https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey">Kaggle</a>
 
