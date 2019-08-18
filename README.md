@@ -40,6 +40,8 @@ Aside from the many NA responses for <i>JobSatisfaction</i> other challenges inc
 # Feature Selection / Modeling / Results
 The following video describes the process of feature selection, creating a random forest model, and the results of that model.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rZ2J6M2h4DY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Conclusion
 Determining key indicators of developer job satisfaction from the StackOverflow 2018 survey results was very difficult, as I believe there were factors not asked as part of the survey that contributed to how respondants felt about their jobs. Because of this, the model could only make correct predictions 67% of the time, with an 82% recall, but only a 67% precision.
 
